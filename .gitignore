@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.dll
+
+# TensorFlow model files
+*.h5
+
+# Logs and temporary files
+*.log
+*.sqlite3
+.DS_Store
+
+# VSCode config
+.vscode/
